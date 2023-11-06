@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PocketApp/static/css/main.e0257157.css",
+    "main.js": "/PocketApp/static/js/main.8867321b.js",
+    "index.html": "/PocketApp/index.html",
+    "main.e0257157.css.map": "/PocketApp/static/css/main.e0257157.css.map",
+    "main.8867321b.js.map": "/PocketApp/static/js/main.8867321b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0257157.css",
+    "static/js/main.8867321b.js"
+  ]
+}
