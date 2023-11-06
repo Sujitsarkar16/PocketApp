@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+}
+.app {
+  min-height: 100vh;
+  width: 100vw;
+  background-color: #a6cf98;
+}
+.app h1 {
+  font-size: 25px;
+  margin-top: 0;
+}
+.app img {
+  height: 25vw;
+  position: absolute;
+  width: 28.7rem;
+  left: 50%;
+  top: 10%;
+}
+#Head {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 35px;
+  position: absolute;
+  z-index: 10;
+  padding: 2vh;
+}
+.app p {
+  position: absolute;
+  width: 42.5rem;
+  left: 50%;
+  top: 60%;
+  font-family: poppins;
+  width: 35vw;
+}
+.Encrypt {
+  position: absolute;
+  /* width: 42.5rem; */
+  left: 60%;
+  top: 90%;
+  font-family: poppins;
+}
+
+@media (max-width: 760px) {
+  .app img {
+    height: 300px;
+    position: absolute;
+    width: 350px;
+    left: 20%;
+    top: 25%;
+  }
+}
